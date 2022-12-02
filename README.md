@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aritarp
-- 👀 I’m interested in Neural Networks...
+- 👀 I’m interested in Machine Learning and it's applications
 - 🌱 I’m currently learning Python and Artificial Intelligence...
 
 <!---
